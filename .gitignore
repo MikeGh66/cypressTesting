@@ -6,6 +6,9 @@
 # dependencies
 /node_modules
 
+# reports
+/cypress/videos
+
 # IDEs and editors
 /.idea
 .project

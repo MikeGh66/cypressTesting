@@ -1,0 +1,22 @@
+{
+  "name": "cypresstesting",
+  "version": "1.0.0",
+  "description": "Tutorial for Cypress Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeGh66/cypressTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeGh66/cypressTesting/issues"
+  },
+  "homepage": "https://github.com/MikeGh66/cypressTesting#readme",
+  "devDependencies": {
+    "cypress": "^12.2.0"
+  }
+}
